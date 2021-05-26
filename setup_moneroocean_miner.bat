@@ -341,7 +341,7 @@ goto OK
 :OK
 echo
 echo [*] Setup complete
-pause
+
 exit /b 0
 
 :strlen string len
